@@ -39,7 +39,7 @@ superuser: true
 title: Constanza M. Vidal Bustamante
 ---
 
-I am a Ph.D. student in the Psychology department at Harvard University, under the supervision of Professor Randy Buckner. My current work uses smartphones and wearables for the extensive longitudinal assessment of adolescents' behavior and affect, with a focus on mental and physical health outcomes. 
+I am a Ph.D. student in the Psychology department at Harvard University under the supervision of Professor Randy Buckner. My current work uses smartphones and wearables for the extensive longitudinal assessment of adolescents' affect and sleep, academic, and social behavior, with a focus on mental health outcomes. 
 
-I grew up in Chile, and moved to the United States for college. Prior to starting my Ph.D., I worked in Harvard Professor Leah Somerville’s lab managing the Human Connectome Project in Development, a NIH-funded multimodal brain study aiming to chart age-related changes in neural network properties inin children, adolescents, and adults. 
+I grew up in Chile, and moved to the United States for college. Prior to starting my Ph.D., I worked in Harvard Professor Leah Somerville’s lab managing the Human Connectome Project in Development, a NIH-funded multimodal brain study aiming to chart age-related changes in neural network properties in children, adolescents, and adults. 
 

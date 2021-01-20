@@ -17,7 +17,7 @@ links:
 title: Emotion Regulation Across Development
 subtitle: 2018-2019
 
-summary: Use of linguistic distancing and cognitive reappraisal strategies during emotion regulation in children, adolescents, and young adults.
+summary: Text analyses examined the use of linguistic distancing and cognitive reappraisal strategies during emotion regulation in children, adolescents, and young adults.
 
 tags:
 - Emotion Regulation
@@ -33,7 +33,7 @@ url_slides:
 url_video: ""
 ---
 
-In this project, we studied the use of linguistic distancing and cognitive reappraisal strategies during emotion regulation in children, adolescents, and young adults.
+In this project, we used text analyses to study the use of linguistic distancing and cognitive reappraisal strategies during emotion regulation in children, adolescents, and young adults.
 
 - [Research article]('publication/emotion2020_nookvidalbustamante/NookVidalBustamanteChoSomerville_2019_Emotion.pdf') published in journal *Emotion* (accepted December 2018)
 
