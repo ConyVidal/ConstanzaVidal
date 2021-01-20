@@ -24,3 +24,19 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "http://constanzavidal.rbind.io/"
+  to = "https://constanzavidal.rbind.io/"
+  status = 301
+  force = true
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
+  
+[[redirects]]
+  from = "http://constanzavidal.netlify.com/"
+  to = "https://constanzavidal.rbind.io/"
+  status = 301
+  force = true
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}

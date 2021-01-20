@@ -1,6 +1,6 @@
 theme: starter-academic
 title: Constanza M. Vidal Bustamante
-baseurl: 'https://constanzavidal.netlify.com/'
+baseurl: 'https://constanzavidal.rbind.io/'
 copyright: '&copy; Constanza M. Vidal Bustamante {year}'
 enableGitInfo: no
 defaultContentLanguage: en
