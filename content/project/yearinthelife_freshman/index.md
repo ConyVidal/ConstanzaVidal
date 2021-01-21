@@ -41,6 +41,6 @@ url_video: ""
 
 In this ongoing project, we introduce a deep digital phenotyping approach to the study of affect and behavior, leveraging the use of wearables and smartphones to study adolescents for a full year as they transition to college life. 
 
-+ [Poster](ConstanzaVidal_poster_TIPS2020) presented at the 2020 Technology in Psychiatry Summit
++ [Poster](ConstanzaVidal_poster_TIPS2020.pdf) presented at the 2020 Technology in Psychiatry Summit
 
 *More materials forthcoming.*
